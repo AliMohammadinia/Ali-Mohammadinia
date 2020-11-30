@@ -18,9 +18,6 @@ Professional GIS Analyst with over 3 years of experience in different GIS and Su
 - Web Programming (HTML, JavaScript), CSS, Bootstrap and PHP
 - Microsoft (Word, Excel, PowerPoint, Access, Outlook, Project, Visio)
 
-#Seeking for new role
-#GIS #Spatial #Geospatial #Python#ArcGIS #QGIS #Job #job_seeker 
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -28,8 +25,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
 ### Header 3
 
 - Bulleted
