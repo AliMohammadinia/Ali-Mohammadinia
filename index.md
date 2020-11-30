@@ -1,8 +1,25 @@
-## Welcome to GitHub Pages
+## Ali Mohammadinia
 
-You can use the [editor on GitHub](https://github.com/AliMohammadinia/ali.mohammadinia.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Professional GIS Analyst with over 3 years of experience in different GIS and Surveying projects including design, implementation and analysisof utility networks (Electricity, Fiber Optic, Sewer and Drainage), asset management, audit property, risk analysis and location planning. Skillfulin asset management, spatial analysis, database management, data processing, cartography and map production using different GIS and survey-ing software. Highly passionate with can-do attitude, dedicated to responsibilities with attention to detail and able to provide expert advice tomanagers and clients.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Professional Skills:
+- Skilful in design, implementation and maintenance of different GIS systems and WebGIS applications
+- Demonstrated ability in management and maintenance of different spatial and non-spatial databases
+- Expert in spatial analysis, statistics & modelling of asset management and GIS projects
+- Solid skill in collecting, processing and reporting spatial data using GIS and surveying software
+- Highly experienced in cartography, data visualisation and mapping products
+- Demonstrated ability in providing technical advice and liaise with stakeholders, managers and clients
+
+### Software Skills:
+- Surveying (AutoCAD, Civil3D, Leica Geo Office and land development)
+- GIS (ArcGIS, QGIS, FME, MapInfo, Assetmap and ArcGIS Pro)
+- Database and asset management (SQL, PostGIS, PostgresSQL and ArcSDE)
+- Programming (Python, C# and JAVA)
+- Web Programming (HTML, JavaScript), CSS, Bootstrap and PHP
+- Microsoft (Word, Excel, PowerPoint, Access, Outlook, Project, Visio)
+
+#Seeking for new role
+#GIS #Spatial #Geospatial #Python#ArcGIS #QGIS #Job #job_seeker 
 
 ### Markdown
 
