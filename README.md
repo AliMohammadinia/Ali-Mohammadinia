@@ -1,3 +1,3 @@
-# ali.mohammadinia.github.io
+# Ali Mohammadinia
 
 This is my personal webpage
